@@ -37,6 +37,8 @@ cat ngrok > /data/data/com.termux/files/usr/bin/ngrok
 chmod 700 /data/data/com.termux/files/usr/bin/ngrok
 rm ngrok ngrok.zip
 clear
+echo
+echo
 echo "${k}╔══╗╔═╗╔═╗╔═╗╔═╗╔══╗╔═╗╔═══╗╔═══╗";
 echo "${k}║ ═╣║╔╝║║║║╬║║╬║╚║║╝║║║║╔═╗║║╔═╗║";
 echo "${k}╠═ ║║╚╗║║║║╗╣║╔╝╔║║╗║║║╚╝╔╝║║╚═╝║";
@@ -47,8 +49,10 @@ echo "${k}███████████████████████�
 echo
 echo
 echo "${k}NGROK INSTALADO CORRECTAMENTE";
-echo "${k}INGRESE SU AUTHTOKEN";
-echo "Ejemplo de uso (ngrok http 80\n)"
+echo
+echo
+echo "Ejemplo de uso
+(ngrok http 80\n)"
 ;;
 
 n)
