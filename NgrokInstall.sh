@@ -42,13 +42,12 @@ echo "${k}║ ═╣║╔╝║║║║╬║║╬║╚║║╝║║║║
 echo "${k}╠═ ║║╚╗║║║║╗╣║╔╝╔║║╗║║║╚╝╔╝║║╚═╝║";
 echo "${k}╚══╝╚═╝╚═╝╚╩╝╚╝─╚══╝╚═╝╔═╝╔╝║╔═╗║";
 echo "${k}───────────────────────║  ╚═╗╚═╝║";
-echo "${k}C O M U N I D A D                   ╚════╚═══╝";
-echo "${k}\e[1;32m█████████\e[1;37m███████████████\e[1;32m█████████\e[0m";
-echo "${k}
-\e[1;32m┌═════════════════════════════════┐
-█\e[1;37m NGROK INSTALADO CORRECTAMENTE INGRESE SU AUTHTOKEN\e[1;32m █
-└═════════════════════════════════┘\e[0m";
+echo "${k}C O M U N I D A D      ╚════╚═══╝";
+echo "${k}█████████████████████████████████";
 echo
+echo
+echo "${k}NGROK INSTALADO CORRECTAMENTE";
+echo "${k}INGRESE SU AUTHTOKEN";
 echo "Ejemplo de uso (ngrok http 80\n)"
 ;;
 
