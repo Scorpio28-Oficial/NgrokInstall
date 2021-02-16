@@ -52,12 +52,10 @@ echo "${k}NGROK INSTALADO CORRECTAMENTE";
 echo
 echo
 echo "Ejemplo de uso
-echo
-ngrok http 80\n"
+(ngrok http 80)\n"
 ;;
 
 n)
-echo
 clear
 echo "Ngrok Instalado :("
 echo
