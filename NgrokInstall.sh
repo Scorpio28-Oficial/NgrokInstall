@@ -59,8 +59,10 @@ echo "${k}                   ESCRIBA ngrok Y DE ENTER";
 echo "${k}                   PEGAN SU AUTHTOKEN Y";
 echo "${k}                   DAN ENTER Y LISTO.";
 echo
-echo "Ejemplo de uso
+echo "Ejemplo de Solución de Enlace.
 (ngrok http 80)\n"
+echo "Cuando les aya conectado presionan las teclas Ctrl + c y pegan esta ruta seguido del nombre de la carpeta y dan enter.
+(cp -rf ../usr/bin/ngrok $HOME/)\n"
 echo
 ;;
 
