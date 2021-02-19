@@ -1,8 +1,10 @@
-Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet con la que compartamos una url generada dinamicamente , esto es muy 煤til por ejemplo cuando necesitamos mostrar avances constantemente en sitios que se encuentran en etapa de desarrollo o cuando trabajamos con un equipo de desarrolladores de forma remota.
+# NgrokInstall
 
-🦂 Instalación de ngrok de una manera facil y sin errores 🦂
+Es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet con la que compartamos una url generada dinamicamente , esto es muy 煤til por ejemplo cuando necesitamos mostrar avances constantemente en sitios que se encuentran en etapa de desarrollo o cuando trabajamos con un equipo de desarrolladores de forma remota.
 
-INSTALACION:
+# 🦂 Instalación de ngrok de una manera facil y sin errores 🦂
+
+# INSTALACION:
 
 apt update && apt upgrade -y
 
@@ -24,10 +26,10 @@ y
 
 ngrok
 
-Por ultimo pegan su autotoken dan enter y listo. 👍
+# Por ultimo pegan su autotoken dan enter y listo. 👍
 
-Canal de YouTube
+# Canal de YouTube
 
 https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
 
-By: Scorpio28
+# By: Scorpio28
