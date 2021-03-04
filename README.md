@@ -33,3 +33,8 @@ ngrok
 https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
 
 # By: Scorpio28
+
+# Informatic in Termux
+
+👇👇👇
+https://t.me/Informatic_in_Termux_1
