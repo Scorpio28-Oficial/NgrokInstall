@@ -32,5 +32,4 @@ ngrok
 
 # Informatic in Termux
 
-👇👇👇
 https://t.me/Informatic_in_Termux_1
