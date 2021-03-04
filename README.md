@@ -28,10 +28,6 @@ ngrok
 
 # Por ultimo pegan su autotoken dan enter y listo. 👍
 
-# Canal de YouTube
-
-https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
-
 # By: Scorpio28
 
 # Informatic in Termux
