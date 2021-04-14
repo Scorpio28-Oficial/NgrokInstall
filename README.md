@@ -6,25 +6,25 @@ __Instalación de ngrok de una manera facil y sin errores.__
 
 # 🦂 INSTALACION: 🦂
 
-apt update && apt upgrade -y
+* apt update && apt upgrade -y
 
-pkg install git -y
+* pkg install git -y
 
-git clone https://github.com/Scorpio28-Oficial/NgrokInstall
+* git clone https://github.com/Scorpio28-Oficial/NgrokInstall
 
-cd NgrokInstall
+* cd NgrokInstall
 
-ls
+* ls
 
-chmod 777 NgrokInstall.sh
+* chmod 777 NgrokInstall.sh
 
-ls
+* ls
 
-sh NgrokInstall.sh
+* sh NgrokInstall.sh
 
-y
+* y
 
-ngrok
+* ngrok
 
 __Por ultimo pegan su autotoken dan enter y listo.__ 👍
 
