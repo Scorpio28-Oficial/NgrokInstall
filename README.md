@@ -32,4 +32,4 @@ __By: Scorpio28__
 
 __Informatic in Termux__
 
-https://t.me/Informatic_in_Termux_1
+https://t.me/Informatic_in_Termux
