@@ -35,6 +35,3 @@ __Informatic in Termux__
 https://t.me/Informatic_in_Termux
 
 ### Scorpio28
-<p align="center">
-	<img src="https://i.imgur.com/FpEqZCq.png" width="600px">
-</p>
