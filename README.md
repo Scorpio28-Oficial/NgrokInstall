@@ -38,4 +38,8 @@ https://t.me/Informatic_in_Termux
 	<img src="https://i.imgur.com/yk5huYn.jpg" width="600px">
 </p>
 
-### Scorpio28
+<li>
+<a href="https://t.me/Informatic_in_Termux">Informatic in Termux</a>
+</li>
+
+###### Creator: Scorpio28
